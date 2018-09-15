@@ -1,0 +1,6 @@
+https://devforum.roblox.com/t/pastebin-101-by-kiansjet/74518
+
+Note that I have made some minor mistakes in the wording of
+that tutorial. Some variables are incorrectly referenced
+and some words are interchanged. Take that article with a
+grain of salt.
